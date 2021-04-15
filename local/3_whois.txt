@@ -1,0 +1,72 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+inet6num:     2600:0:0:0:0:0:0:0/12
+organisation: ARIN
+status:       ALLOCATED
+
+whois:        whois.arin.net
+
+changed:      2006-10-03
+source:       IANA
+
+# whois.arin.net
+
+NetRange:       2600:6C00:: - 2600:6CFF:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF
+CIDR:           2600:6C00::/24
+NetName:        CHTR-V6
+NetHandle:      NET6-2600-6C00-1
+Parent:         NET6-2600 (NET6-2600-1)
+NetType:        Direct Allocation
+OriginAS:       AS20115
+Organization:   Charter Communications (CC04)
+RegDate:        2012-04-16
+Updated:        2012-07-03
+Ref:            https://rdap.arin.net/registry/ip/2600:6C00::
+
+
+
+OrgName:        Charter Communications
+OrgId:          CC04
+Address:        6399 S Fiddlers Green Circle
+City:           Greenwood Village
+StateProv:      CO
+PostalCode:     80111
+Country:        US
+RegDate:        
+Updated:        2021-03-31
+Ref:            https://rdap.arin.net/registry/entity/CC04
+
+
+OrgAbuseHandle: IPADD1-ARIN
+OrgAbuseName:   IPAddressing
+OrgAbusePhone:  +1-720-536-1278 
+OrgAbuseEmail:  ipaddressing@chartercom.com
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/IPADD1-ARIN
+
+OrgTechHandle: IPADD1-ARIN
+OrgTechName:   IPAddressing
+OrgTechPhone:  +1-720-536-1278 
+OrgTechEmail:  ipaddressing@chartercom.com
+OrgTechRef:    https://rdap.arin.net/registry/entity/IPADD1-ARIN
+
+RAbuseHandle: ABUSE19-ARIN
+RAbuseName:   Abuse
+RAbusePhone:  +1-855-222-7342 
+RAbuseEmail:  abuse@charter.net
+RAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE19-ARIN
+
+RNOCHandle: NNOC16-ARIN
+RNOCName:   National Network Operations Center
+RNOCPhone:  +1-314-288-3111 
+RNOCEmail:  dlnocip@chartercom.com
+RNOCRef:    https://rdap.arin.net/registry/entity/NNOC16-ARIN
+
+RTechHandle: IPADD1-ARIN
+RTechName:   IPAddressing
+RTechPhone:  +1-720-536-1278 
+RTechEmail:  ipaddressing@chartercom.com
+RTechRef:    https://rdap.arin.net/registry/entity/IPADD1-ARIN
+
+

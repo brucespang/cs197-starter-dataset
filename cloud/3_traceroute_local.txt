@@ -1,0 +1,1 @@
+traceroute to 2600:6c56:5808:229a:57f:1be0:633b:ec10 (2600:6c56:5808:229a:57f:1be0:633b:ec10), 30 hops max, 80 byte packets

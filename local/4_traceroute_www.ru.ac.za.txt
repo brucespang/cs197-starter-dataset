@@ -1,0 +1,25 @@
+traceroute to www.ru.ac.za (146.231.128.43), 30 hops max, 60 byte packets
+ 1  DESKTOP-L128SDR.mshome.net (192.168.176.1)  1.314 ms  1.375 ms  1.763 ms
+ 2  192.168.1.1 (192.168.1.1)  3.673 ms  3.670 ms  3.664 ms
+ 3  10.21.240.1 (10.21.240.1)  10.420 ms  10.415 ms  10.411 ms
+ 4  host-24-246-128-20.com.morrisbb.com (24.246.128.20)  12.777 ms  23.253 ms  23.276 ms
+ 5  host-24-246-128-154.com.morrisbb.com (24.246.128.154)  23.239 ms  23.235 ms  23.230 ms
+ 6  host-24-246-128-160.com.morrisbb.com (24.246.128.160)  23.291 ms  18.775 ms  18.752 ms
+ 7  host-24-246-128-152.com.morrisbb.com (24.246.128.152)  11.534 ms  17.177 ms  17.193 ms
+ 8  host-24-246-128-84.com.morrisbb.com (24.246.128.84)  17.138 ms  11.665 ms  20.415 ms
+ 9  165.166.35.197 (165.166.35.197)  24.629 ms  24.627 ms  24.625 ms
+10  165.166.24.22 (165.166.24.22)  23.640 ms  23.747 ms  24.578 ms
+11  * * *
+12  be2847.ccr41.atl01.atlas.cogentco.com (154.54.6.101)  25.489 ms  23.659 ms  23.653 ms
+13  be2112.ccr41.dca01.atlas.cogentco.com (154.54.7.157)  37.284 ms  37.283 ms  29.585 ms
+14  be2806.ccr41.jfk02.atlas.cogentco.com (154.54.40.105)  37.303 ms  35.560 ms  35.459 ms
+15  be2317.ccr41.lon13.atlas.cogentco.com (154.54.30.186)  108.142 ms  109.691 ms  109.675 ms
+16  be2375.rcr21.b015533-1.lon13.atlas.cogentco.com (154.54.61.158)  109.661 ms  105.550 ms  111.308 ms
+17  149.14.227.58 (149.14.227.58)  109.551 ms  109.547 ms  109.542 ms
+18  cr2-gwf-et46.wolcomm.net (41.78.188.14)  278.938 ms  297.665 ms  297.660 ms
+19  cr1-gwf-et47.wolcomm.net (41.78.188.62)  279.014 ms  279.009 ms  279.005 ms
+20  41.78.188.50 (41.78.188.50)  279.481 ms  279.476 ms  275.571 ms
+21  * * *
+22  strubencore-strubenedge.net.ru.ac.za (192.42.99.247)  273.411 ms  312.734 ms  273.398 ms
+23  datacentres-0-strubencore.net.ru.ac.za (146.231.0.37)  291.475 ms  294.935 ms  294.902 ms
+24  vhost.ru.ac.za (146.231.128.43)  284.502 ms  284.498 ms  284.492 ms

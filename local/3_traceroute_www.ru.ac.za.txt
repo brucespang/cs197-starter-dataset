@@ -1,0 +1,21 @@
+ 1  [AS0] 192.168.1.1 (192.168.1.1)  9.861 ms  3.387 ms  2.130 ms
+ 2  * * *
+ 3  [AS20115] 096-034-115-016.biz.spectrum.com (96.34.115.16)  14.192 ms  17.327 ms  15.531 ms
+ 4  [AS20115] dtr01kllrtx-tge-0-1-0-1.kllr.tx.charter.com (96.34.113.151)  31.473 ms
+    [AS20115] dtr01kllrtx-tge-0-2-0-2.kllr.tx.charter.com (96.34.112.117)  25.582 ms  18.350 ms
+ 5  [AS20115] bbr02dllstx-bue-1.dlls.tx.charter.com (96.34.2.34)  29.617 ms
+    [AS20115] bbr01dllstx-bue-2.dlls.tx.charter.com (96.34.2.32)  24.011 ms
+    [AS20115] bbr02dllstx-bue-1.dlls.tx.charter.com (96.34.2.34)  25.864 ms
+ 6  [AS20115] prr02dllstx-bue-2.dlls.tx.charter.com (96.34.3.91)  15.469 ms  15.782 ms  14.003 ms
+ 7  [AS3356] lag-5.ear4.dallas1.level3.net (4.68.110.45)  37.475 ms  45.090 ms  27.601 ms
+ 8  * * *
+ 9  [AS3356] workonline.ear2.london1.level3.net (212.187.165.246)  501.536 ms  307.571 ms  568.315 ms
+10  [AS37271] 41.78.188.224 (41.78.188.224)  354.477 ms
+    [AS37271] cr2-gwf-et44.wolcomm.net (41.78.188.196)  298.454 ms
+    [AS37271] cr2-gwf-et46.wolcomm.net (41.78.188.14)  286.594 ms
+11  [AS37271] cr1-gwf-et47.wolcomm.net (41.78.188.62)  294.218 ms  300.314 ms  315.620 ms
+12  [AS37271] 41.78.188.8 (41.78.188.8)  288.212 ms  285.633 ms  329.696 ms
+13  * * *
+14  [AS6421] strubencore-strubenedge.net.ru.ac.za (192.42.99.247)  340.452 ms  623.474 ms  611.568 ms
+15  [AS5713] datacentres-1-strubencore.net.ru.ac.za (146.231.0.39)  607.152 ms  501.943 ms  419.068 ms
+16  [AS6421] vhost.ru.ac.za (146.231.128.43)  614.504 ms  304.948 ms  575.725 ms

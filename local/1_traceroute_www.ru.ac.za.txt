@@ -1,0 +1,23 @@
+ 1  [AS0] 10.31.192.2 (10.31.192.2)  4.121 ms  2.103 ms  2.098 ms
+ 2  [AS32] xb-nw-rtr-vlan11.sunet (171.64.0.193)  3.237 ms  3.098 ms  2.070 ms
+ 3  [AS32] hpr-svl-rtr-vlan2.sunet (171.64.255.147)  2.377 ms  13.483 ms  2.929 ms
+ 4  [AS2152] hpr-svl-hpr3--stan-100ge.cenic.net (137.164.27.60)  8.804 ms  3.884 ms  7.283 ms
+ 5  [AS2152] svl-hpr3--svl-agg10-hpr--100g.cenic.net (137.164.25.107)  3.659 ms  3.352 ms  2.573 ms
+ 6  [AS2152] hpr-i2--svl-hpr.cenic.net (137.164.26.142)  28.745 ms  27.860 ms  27.762 ms
+ 7  [AS11537] ae-1.4079.rtsw.minn.net.internet2.edu (162.252.70.173)  51.937 ms  54.140 ms  52.110 ms
+ 8  [AS11537] ae-1.4079.rtsw.eqch.net.internet2.edu (162.252.70.106)  56.937 ms  57.390 ms  66.465 ms
+ 9  [AS11537] ae-2.4079.rtsw.chic.net.internet2.edu (162.252.70.132)  57.736 ms  58.237 ms  57.542 ms
+10  [AS11537] ae-2.4070.rtsw.atla.net.internet2.edu (198.71.45.61)  72.150 ms  71.706 ms  70.818 ms
+11  [AS11537] et-3-0-0.4079.rtsw.jack.net.internet2.edu (162.252.70.43)  71.050 ms  71.131 ms  71.638 ms
+12  [AS2018] et-0-1-4-1972-cpt3-pe1.net.tenet.ac.za (155.232.71.2)  249.256 ms  237.879 ms  375.002 ms
+13  [AS2018] lt-1-0-0-2-cpt3-pe1.net.tenet.ac.za (155.232.64.36)  238.221 ms
+    [AS2018] lt-0-1-0-2-cpt3-pe1.net.tenet.ac.za (155.232.64.146)  249.702 ms
+    [AS2018] lt-1-0-0-2-cpt3-pe1.net.tenet.ac.za (155.232.64.36)  238.575 ms
+14  [AS2018] et-1-1-0-0-cpt1-ir2.net.tenet.ac.za (155.232.64.86)  311.302 ms  362.968 ms  321.987 ms
+15  [AS2018] be1-cpt1-pe1.net.tenet.ac.za (155.232.64.69)  250.811 ms  249.942 ms  354.729 ms
+16  [AS2018] te0-0-0-0-plz1-pe1.net.tenet.ac.za (155.232.6.42)  249.059 ms  249.670 ms  474.963 ms
+17  [AS2018] te0-0-0-0-grh1-pe1.net.tenet.ac.za (155.232.5.5)  251.107 ms  256.792 ms  264.121 ms
+18  [AS6421] strubenedge-tenet.net.ru.ac.za (192.42.99.252)  250.388 ms  249.720 ms  249.320 ms
+19  [AS6421] strubencore-strubenedge.net.ru.ac.za (192.42.99.247)  250.574 ms  250.105 ms  249.721 ms
+20  [AS5713] datacentres-0-strubencore.net.ru.ac.za (146.231.0.37)  259.253 ms  263.924 ms  351.377 ms
+21  [AS6421] vhost.ru.ac.za (146.231.128.43)  251.044 ms  250.093 ms  292.745 ms

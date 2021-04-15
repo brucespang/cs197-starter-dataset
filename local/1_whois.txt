@@ -1,0 +1,95 @@
+% IANA WHOIS server
+% for more information on IANA, visit http://www.iana.org
+% This query returned 1 object
+
+refer:        whois.arin.net
+
+inetnum:      128.0.0.0 - 128.255.255.255
+organisation: Administered by ARIN
+status:       LEGACY
+
+whois:        whois.arin.net
+
+changed:      1993-05
+source:       IANA
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2021, American Registry for Internet Numbers, Ltd.
+#
+
+
+#
+# Query terms are ambiguous.  The query is assumed to be:
+#     "n + 128.12.123.141"
+#
+# Use "?" to get help.
+#
+
+NetRange:       128.12.0.0 - 128.12.255.255
+CIDR:           128.12.0.0/16
+NetName:        SU-NET
+NetHandle:      NET-128-12-0-0-1
+Parent:         NET128 (NET-128-0-0-0-0)
+NetType:        Direct Assignment
+OriginAS:       
+Organization:   Stanford University (STANFO)
+RegDate:        1983-02-24
+Updated:        2009-07-21
+Ref:            https://rdap.arin.net/registry/ip/128.12.0.0
+
+
+OrgName:        Stanford University
+OrgId:          STANFO
+Address:        241 Panama Street
+Address:        Pine Hall, room 125
+City:           Stanford
+StateProv:      CA
+PostalCode:     94305-4102
+Country:        US
+RegDate:        
+Updated:        2019-09-24
+Ref:            https://rdap.arin.net/registry/entity/STANFO
+
+
+OrgTechHandle: TINGL2-ARIN
+OrgTechName:   Tingley, Stephen 
+OrgTechPhone:  +1-650-725-3790 
+OrgTechEmail:  tingley@stanford.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/TINGL2-ARIN
+
+OrgTechHandle: RR959-ARIN
+OrgTechName:   Roberts, Rosalea 
+OrgTechPhone:  +1-650-723-3352 
+OrgTechEmail:  lea.roberts@stanford.edu
+OrgTechRef:    https://rdap.arin.net/registry/entity/RR959-ARIN
+
+OrgAbuseHandle: ABUSE4906-ARIN
+OrgAbuseName:   Abuse Reporting
+OrgAbusePhone:  +1-650-723-3352 
+OrgAbuseEmail:  abuse@stanford.edu
+OrgAbuseRef:    https://rdap.arin.net/registry/entity/ABUSE4906-ARIN
+
+OrgRoutingHandle: MURRA385-ARIN
+OrgRoutingName:   Murray, Paul 
+OrgRoutingPhone:  +1-650-725-7710 
+OrgRoutingEmail:  pmurray@stanford.edu
+OrgRoutingRef:    https://rdap.arin.net/registry/entity/MURRA385-ARIN
+
+
+#
+# ARIN WHOIS data and services are subject to the Terms of Use
+# available at: https://www.arin.net/resources/registry/whois/tou/
+#
+# If you see inaccuracies in the results, please report at
+# https://www.arin.net/resources/registry/whois/inaccuracy_reporting/
+#
+# Copyright 1997-2021, American Registry for Internet Numbers, Ltd.
+#
+

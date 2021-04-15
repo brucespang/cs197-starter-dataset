@@ -1,0 +1,10 @@
+traceroute to www.ru.ac.za (146.231.128.43), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  cr1-gwf-et48.wolcomm.net (41.78.188.46) [AS37271]  160.857 ms  160.845 ms  164.559 ms
+ 5  41.78.188.10 (41.78.188.10) [AS37271]  160.045 ms  163.471 ms  159.814 ms
+ 6  * * *
+ 7  strubencore-strubenedge.net.ru.ac.za (192.42.99.247) [AS6421/AS37520/AS2018]  185.771 ms  185.751 ms  185.332 ms
+ 8  datacentres-0-strubencore.net.ru.ac.za (146.231.0.37) [AS37520]  200.920 ms datacentres-1-strubencore.net.ru.ac.za (146.231.0.39) [AS37520]  200.099 ms datacentres-0-strubencore.net.ru.ac.za (146.231.0.37) [AS37520]  200.075 ms
+ 9  vhost.ru.ac.za (146.231.128.43) [AS6421/AS37520]  183.238 ms  183.456 ms  183.602 ms
